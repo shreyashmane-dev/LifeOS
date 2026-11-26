@@ -4,3 +4,4 @@
 - Added maintenance update. (2026-10-19 11:51:27.225939)
 - Refined repository metadata. (2026-10-20 18:14:51.115742)
 - Minor documentation improvements. (2026-10-28 00:53:36.692843)
+- Updated project documentation. (2026-11-26 16:12:47.828347)
